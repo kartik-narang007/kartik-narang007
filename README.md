@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/kartik-narang-a81002245/" target="_blank"> Kartik Narang </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </div>
 <h3 align="center">I'm a Full-Stack Web Developer with hands-on experience in designing, developing, and implementing
         applications and solutions using JavaScript, ReactJS, NodeJS.</h3>
 
